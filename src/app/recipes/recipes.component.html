@@ -1,3 +1,13 @@
 <app-navbar></app-navbar>
 <img class="header" src="../../assets/img/header.jpg" alt="">
-<h2>Recetario.</h2>
+<h2>Nuestro Recetario</h2>
+<div *ngFor="let food of recipesService.info">
+    <mat-card class="card">
+      <mat-card-content>
+          <img mat-card-image src="{{food.img}}" alt="">
+          <h4>Nombre de la receta: {{food.documentname}}</h4>
+          <p>Preparación: {{food.turismdescription}}</p>
+          <p>Tipo de Preparación: {{food.gastronomytype}}</p>
+      </mat-card-content>
+    </mat-card>
+</div>

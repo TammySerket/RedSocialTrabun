@@ -2,12 +2,15 @@
 @import '~@angular/material/prebuilt-themes/indigo-pink.css';
 
 body {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family:'Open Sans', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
 }
 
 h2 {
     color: green;
     font-size: 14px;
+    text-transform: uppercase;
+    text-align: center;
   }
 .header{
     width: 100%;
@@ -16,12 +19,13 @@ h2 {
 
 md-icon{
   font-family: 'Material Icons' !important;
+  color: rgb(49, 49, 49);
 }
 
 /* Muros */
 
 .card {
-  max-width: 300px;
+  max-width: 220px;
   margin: 2em;
   float: left;
 }
@@ -29,9 +33,17 @@ md-icon{
 .header-image {
   background-image: url('https://www.pekoda.com/images/default.png');
   background-size: cover;
-  margin-bottom: 2.5em;
+  margin-bottom: 7em;
+  text-align: center;
 }
 
-.header-image mat-card-title {
-  padding-left: 50px;
+.header-image p {
+  padding-top: 2em;
+  font-size: 14px;
+  font-weight: 700;
   }
+
+.mat-card-image:first-child {
+    margin-top: 0px;
+}
+
