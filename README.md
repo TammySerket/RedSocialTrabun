@@ -14,6 +14,6 @@ Slogan: Conectate y Vuelve a Conectarte ( significado,conectate a la red y vuelv
 
 Con el avance de la tecnología hemos ido dejando de lado nuestra conección natural con la tierra, la gran esfera con el ecosistema perfecto que nos regala el oxigeno que respiramos cada día, la misma que junto a el sol, logran darnos alimentos nutritivos que han evolucionado junto a nosotr@s y nuestras necesidades, necesidades de las cuales no somos conscientes ya que de a poco nos hemos ido desconectando de nuestra naturaleza.
 
-Es por esto que te invitamos a unirte a esta nueva red de pensamiento respetuoso y consciente en la cual puedes conocer a gente maravillosa que cultiva la tierra, gente que cocina y comparte sus recetas, gente que busca alimentarse de manera saludable, gente que tiene la necesidad de una conexión a través de una de las cosas más básicas para la existencia del ser humano, la alimentación.
+Es por esto que te invitamos a unirte a esta nueva red de pensamiento respetuoso y consciente en la cual puedes conocer a personas maravillosa que cultiva la tierra, personas que cocina y comparte sus recetas, personas que busca alimentarse de manera saludable, personas que tiene la necesidad de una conexión a través de una de las cosas más básicas para la existencia del ser humano, la alimentación.
 
 ### Bienvenido, Bem vindo, Welcome, Willkommen, Benvenuto, Yōkoso, Bienvenue.
